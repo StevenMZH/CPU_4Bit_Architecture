@@ -1,0 +1,145 @@
+{
+  "Name": "Master Decoder",
+  "Colour": "#493604",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 936397137,
+      "PositionY": -3.60185218,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1083848397,
+      "PositionY": -4.05555534,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 946919945,
+      "PositionY": -3.111111,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1635517192,
+      "PositionY": -2.63888884,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2074663909,
+      "PositionY": -1.44444442,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 474172450,
+      "PositionY": -0.99999994,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 611313856,
+      "PositionY": -0.5833334,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1925636538,
+      "PositionY": -0.129629672,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2000794565,
+      "PositionY": 1.15740716,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 44040236,
+      "PositionY": 1.55555546,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1505778175,
+      "PositionY": 1.99999988,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1447964735,
+      "PositionY": 2.41666675,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 491602325,
+      "PositionY": 4.444444,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1979341470,
+      "PositionY": 3.84259272,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 1752333980,
+      "PositionY": 0.361111164,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "Edit-Mode Decoder",
+      "ID": 1541613458,
+      "Points": [
+        {
+          "X": 2.36111116,
+          "Y": -2.12037086
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "Progr-Mode Decoder",
+      "ID": 1985414149,
+      "Points": [
+        {
+          "X": -2.314815,
+          "Y": -2.148148
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "In-Time-P Decoder",
+      "ID": 1506941633,
+      "Points": [
+        {
+          "X": -2.29629636,
+          "Y": 2.93518639
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "EXE-Mode Decoder",
+      "ID": 1075393379,
+      "Points": [
+        {
+          "X": 2.34259319,
+          "Y": 2.90740728
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": []
+}

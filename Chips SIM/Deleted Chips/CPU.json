@@ -1,0 +1,129 @@
+{
+  "Name": "CPU",
+  "Colour": "#000000",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 1404777460,
+      "PositionY": 2.63889,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 938183097,
+      "PositionY": 2.27777767,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 462944775,
+      "PositionY": 1.86111081,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 826009014,
+      "PositionY": 1.46296322,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 778544638,
+      "PositionY": 0.6296295,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 757289106,
+      "PositionY": 0.222222209,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 780946830,
+      "PositionY": -0.111111104,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1042080562,
+      "PositionY": -0.462962985,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 304757574,
+      "PositionY": -1.96296275,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1063284271,
+      "PositionY": -3.1018517,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1361099205,
+      "PositionY": -3.44444442,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1500515058,
+      "PositionY": -4.14814758,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1605355951,
+      "PositionY": -2.34259272,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 544739142,
+      "PositionY": -1.60185194,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1899210966,
+      "PositionY": -1.18518531,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1862218327,
+      "PositionY": 3.40740728,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2045549652,
+      "PositionY": 3.80555582,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1016894097,
+      "PositionY": 4.203704,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [],
+  "SubChips": [
+    {
+      "Name": "4Bx8 Cache 3QA",
+      "ID": 623873726,
+      "Points": [
+        {
+          "X": -2.18518543,
+          "Y": 0.148147941
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": []
+}

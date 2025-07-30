@@ -1,0 +1,88 @@
+{
+  "Name": "Progr-Mode Decoder",
+  "Colour": "#393724",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 1975608813,
+      "PositionY": -3.51851845,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1994419178,
+      "PositionY": -2.99074054,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1390933728,
+      "PositionY": -4.037037,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 895470041,
+      "PositionY": -2.43518543,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2066058670,
+      "PositionY": 4.537037,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 950998692,
+      "PositionY": 3.99074078,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 573250583,
+      "PositionY": 3.425926,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1659771682,
+      "PositionY": 2.86111116,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 285726937,
+      "PositionY": 1.5370369,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 301845854,
+      "PositionY": 0.9814817,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1164413736,
+      "PositionY": 0.435185432,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1225189018,
+      "PositionY": -0.129629672,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 247268971,
+      "PositionY": 0.32407403,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

@@ -1,0 +1,196 @@
+{
+  "Name": "Half Adder",
+  "Colour": "#327A31",
+  "InputPins": [
+    {
+      "Name": "A",
+      "ID": 1533218021,
+      "PositionY": 1.25,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "B",
+      "ID": 385318930,
+      "PositionY": -0.6851852,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Out 1",
+      "ID": 1927215592,
+      "PositionY": -0.935184956,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Carry",
+      "ID": 405909359,
+      "PositionY": 1.09259248,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "XOR",
+      "ID": 1159751627,
+      "Points": [
+        {
+          "X": -3.68518519,
+          "Y": -0.296297431
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "AND",
+      "ID": 94347758,
+      "Points": [
+        {
+          "X": -3.81481528,
+          "Y": 0.87962985
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": [
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 1533218021
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 1159751627,
+        "PinID": 1663040626
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": 1.25
+        },
+        {
+          "X": -4.235185,
+          "Y": -0.176297426
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 385318930
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 1159751627,
+        "PinID": 1950375098
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": -0.6851852
+        },
+        {
+          "X": -4.235185,
+          "Y": -0.416297436
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 1533218021
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 94347758,
+        "PinID": 0
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": 1.25
+        },
+        {
+          "X": -4.364815,
+          "Y": 0.999629855
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 1,
+        "SubChipID": 0,
+        "PinID": 385318930
+      },
+      "Target": {
+        "PinType": 3,
+        "SubChipID": 94347758,
+        "PinID": 1
+      },
+      "WirePoints": [
+        {
+          "X": -7.837778,
+          "Y": -0.6851852
+        },
+        {
+          "X": -4.364815,
+          "Y": 0.759629846
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 94347758,
+        "PinID": 2
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 405909359
+      },
+      "WirePoints": [
+        {
+          "X": -3.26481533,
+          "Y": 0.87962985
+        },
+        {
+          "X": 7.837778,
+          "Y": 1.09259248
+        }
+      ],
+      "ColourThemeName": "Red"
+    },
+    {
+      "Source": {
+        "PinType": 4,
+        "SubChipID": 1159751627,
+        "PinID": 332288335
+      },
+      "Target": {
+        "PinType": 2,
+        "SubChipID": 0,
+        "PinID": 1927215592
+      },
+      "WirePoints": [
+        {
+          "X": -3.13518524,
+          "Y": -0.296297431
+        },
+        {
+          "X": 7.837778,
+          "Y": -0.935184956
+        }
+      ],
+      "ColourThemeName": "Red"
+    }
+  ]
+}

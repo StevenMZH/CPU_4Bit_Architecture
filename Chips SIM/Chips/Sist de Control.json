@@ -1,0 +1,208 @@
+{
+  "Name": "Sist de Control",
+  "Colour": "#776953",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 774788109,
+      "PositionY": 3.44444466,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1554733769,
+      "PositionY": 2.898149,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1514935828,
+      "PositionY": 2.34259248,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2026726982,
+      "PositionY": 1.79629588,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2023229666,
+      "PositionY": -3.91666651,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1447240705,
+      "PositionY": -3.35185146,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 864406926,
+      "PositionY": -2.79629612,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1038276743,
+      "PositionY": -2.23148155,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1856903261,
+      "PositionY": -1.13888884,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1623544588,
+      "PositionY": -0.5648148,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1281602140,
+      "PositionY": 0.00925898552,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 850218745,
+      "PositionY": 0.5833334,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1087329379,
+      "PositionY": 4.351852,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 2129631187,
+      "PositionY": 4.259259,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 710526309,
+      "PositionY": -4.14814854,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1753002794,
+      "PositionY": 3.8611114,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 555844041,
+      "PositionY": 4.638889,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1465987552,
+      "PositionY": 3.518519,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 776635661,
+      "PositionY": 2.70370364,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 233101053,
+      "PositionY": 2.33333349,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1970151297,
+      "PositionY": 1.9907409,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1157798144,
+      "PositionY": 1.62037015,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 454930526,
+      "PositionY": 0.768518448,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1100654498,
+      "PositionY": 0.37037015,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1003884178,
+      "PositionY": -0.02777785,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2131645983,
+      "PositionY": -0.444444418,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1793257733,
+      "PositionY": -1.26851857,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 295097880,
+      "PositionY": -1.61111116,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 488457137,
+      "PositionY": -1.90740728,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 871220409,
+      "PositionY": -2.24074078,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 614548522,
+      "PositionY": -2.98148155,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1629899710,
+      "PositionY": -3.333333,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1918068106,
+      "PositionY": -3.67592573,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [],
+  "Connections": []
+}

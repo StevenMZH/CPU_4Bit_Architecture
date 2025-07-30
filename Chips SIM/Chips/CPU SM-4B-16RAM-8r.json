@@ -1,0 +1,240 @@
+{
+  "Name": "CPU SM-4B-16RAM-8r",
+  "Colour": "#000000",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 453618350,
+      "PositionY": -4.074074,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1692168080,
+      "PositionY": -3.37037039,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 230722882,
+      "PositionY": -3.09259224,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1046566580,
+      "PositionY": -2.57407427,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 412314905,
+      "PositionY": -2.212963,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1578244034,
+      "PositionY": 4.76851845,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1486766658,
+      "PositionY": 4.01851845,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1573901102,
+      "PositionY": -1.41666675,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 9869014,
+      "PositionY": -1.14814818,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1702406907,
+      "PositionY": -0.879629552,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1191082200,
+      "PositionY": -0.6388888,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1377397353,
+      "PositionY": -0.0555557,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1193082768,
+      "PositionY": 0.175926089,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1213028652,
+      "PositionY": 0.407407284,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1512667983,
+      "PositionY": 0.6759262,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2114343601,
+      "PositionY": 1.35185182,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 134146822,
+      "PositionY": 1.5925926,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1868027567,
+      "PositionY": 1.84259236,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 682870247,
+      "PositionY": 2.11111116,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1235375167,
+      "PositionY": 2.80555534,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1300057383,
+      "PositionY": 3.21296263,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 1119100755,
+      "PositionY": 2.66666651,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 659095999,
+      "PositionY": 2.13888884,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1696434178,
+      "PositionY": 1.657407,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 561232451,
+      "PositionY": 1.1388886,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1718142600,
+      "PositionY": -0.07407367,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1776907979,
+      "PositionY": -0.5648148,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1154582932,
+      "PositionY": -1.10185182,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 548122727,
+      "PositionY": -1.62962973,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "Master Decoder",
+      "ID": 1108485681,
+      "Points": [
+        {
+          "X": -4.76851845,
+          "Y": 2.38888884
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "4B ALU",
+      "ID": 753843798,
+      "Points": [
+        {
+          "X": -1.66666782,
+          "Y": 0.0648149848
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12Bx16 RAM",
+      "ID": 960446982,
+      "Points": [
+        {
+          "X": 4.851852,
+          "Y": -1.76851916
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "4Bx8 Cache 3QA",
+      "ID": 2055916972,
+      "Points": [
+        {
+          "X": 1.42592525,
+          "Y": 1.537036
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "LineCounter",
+      "ID": 1521900980,
+      "Points": [
+        {
+          "X": -3.02777958,
+          "Y": -2.8888886
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": []
+}

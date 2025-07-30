@@ -1,0 +1,279 @@
+{
+  "Name": "8Bx8 RAM",
+  "Colour": "#AC1D35",
+  "InputPins": [
+    {
+      "Name": "Pin",
+      "ID": 595818009,
+      "PositionY": 3.98148179,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1213325940,
+      "PositionY": 3.59259248,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1798114718,
+      "PositionY": 4.324074,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 277832884,
+      "PositionY": 4.71296263,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 164564024,
+      "PositionY": 2.25925922,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1043995661,
+      "PositionY": 1.89814806,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 124909841,
+      "PositionY": 1.54629648,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1520225855,
+      "PositionY": 2.63888884,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 808604671,
+      "PositionY": 0.314815044,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1048080738,
+      "PositionY": -0.0185185671,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 690195342,
+      "PositionY": -0.314814746,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1133398977,
+      "PositionY": 0.7222223,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1453846740,
+      "PositionY": -1.73148155,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 320811800,
+      "PositionY": -2.111111,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1659801747,
+      "PositionY": -1.37037063,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 337171041,
+      "PositionY": -3.564815,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 511642860,
+      "PositionY": -3.91666651,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 34884147,
+      "PositionY": -3.175926,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "OutputPins": [
+    {
+      "Name": "Pin",
+      "ID": 1187588447,
+      "PositionY": 2.79629612,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 696550010,
+      "PositionY": 4.611111,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2055910230,
+      "PositionY": 1.398148,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1265685918,
+      "PositionY": 0.7499999,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 708478898,
+      "PositionY": 0.0555554032,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1578284833,
+      "PositionY": -0.6851851,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1931066733,
+      "PositionY": -1.80555558,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1924381841,
+      "PositionY": -2.472222,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 2001502333,
+      "PositionY": 3.99074078,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 479800446,
+      "PositionY": 3.425926,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 244488542,
+      "PositionY": -3.08333349,
+      "ColourThemeName": "Red"
+    },
+    {
+      "Name": "Pin",
+      "ID": 1752314818,
+      "PositionY": -3.75925922,
+      "ColourThemeName": "Red"
+    }
+  ],
+  "SubChips": [
+    {
+      "Name": "12B Register",
+      "ID": 2043734865,
+      "Points": [
+        {
+          "X": -6.194444,
+          "Y": 2.40740776
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 654710791,
+      "Points": [
+        {
+          "X": -3.351852,
+          "Y": 2.314815
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 629917546,
+      "Points": [
+        {
+          "X": -6.166667,
+          "Y": -1.71296263
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 807490172,
+      "Points": [
+        {
+          "X": -3.34259272,
+          "Y": -1.68518519
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 1445427805,
+      "Points": [
+        {
+          "X": -0.7037036,
+          "Y": -1.64814806
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 1834456113,
+      "Points": [
+        {
+          "X": -0.657407463,
+          "Y": 2.30555534
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 2104640328,
+      "Points": [
+        {
+          "X": 1.92592633,
+          "Y": 2.33333349
+        }
+      ],
+      "Data": null
+    },
+    {
+      "Name": "12B Register",
+      "ID": 1289393245,
+      "Points": [
+        {
+          "X": 2.12037086,
+          "Y": -1.50925934
+        }
+      ],
+      "Data": null
+    }
+  ],
+  "Connections": []
+}
